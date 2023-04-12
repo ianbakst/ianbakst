@@ -19,3 +19,6 @@ jobs:
       run: pip install -r ./.github/scripts/requirements.txt
     - name: Update README
       run: python ./.github/scripts/update.py
+      env:
+        GITHUB_TOKEN: $
+        GITHUB_REPOSITORY: $
