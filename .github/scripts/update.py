@@ -1,5 +1,5 @@
 from datetime import datetime
-from os import getenv
+from os import environ, getenv
 from os.path import dirname, join
 
 
@@ -28,7 +28,7 @@ if __name__ == '__main__':
     with open('./README.md', 'w') as f:
         f.write(full_readme)
     now = datetime.now().strftime('%Y-%m-%dT%H:%M:%S')
-    repo = Repo(f'https://ianbakst:{getenv("GITHUB_TOKEN")}@github.com/ianbakst/ianbakst.git"')
+    repo = Repo('.')
     repo.index.add('./README.md')
     repo.index.commit(f'Updated README.md {now}')
-    repo.remotes[0].push()
+    repo.remote(name='origin').push()

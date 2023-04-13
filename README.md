@@ -5,10 +5,7 @@
 - 💬 Ask me about anything!
 - 📫 How to reach me: ian.n.bakst@gmail.com
 
-### Bio 
-
-
-
+### Bio
 
 I received my Ph.D. in Mechanical Engineering from Colorado State University in December of 2018. In over 5 years of research, I gained experience in a number of modeling and data analysis techniques.
 
