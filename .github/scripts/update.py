@@ -1,6 +1,8 @@
+from datetime import datetime
 from os.path import dirname, join
 
 from bs4 import BeautifulSoup
+from git import Repo
 import requests
 
 URL = 'https://www.ianbakst.com'
@@ -23,3 +25,7 @@ if __name__ == '__main__':
 
     with open('./README.md', 'w') as f:
         f.write(full_readme)
+    now = datetime.now().strftime('%Y-%m-%dT%H:%M:%S')
+    repo = Repo('.')
+    repo.index.add('./README.md')
+    repo.index.commit(f'Updated README.md {now}')
