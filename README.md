@@ -5,8 +5,12 @@
 - 💬 Ask me about anything!
 - 📫 How to reach me: ian.n.bakst@gmail.com
 
-### Bio
+### Bio 
 
+
+
+
+I'm a Data Professional with over 4 years experience living in Boston, MA.
 I received my Ph.D. in Mechanical Engineering from Colorado State University in December of 2018. In over 5 years of research, I gained experience in a number of modeling and data analysis techniques.
 
 My dissertation research investigated the effects of microstructure on the superelasticity of 1:2:2 intermetallic compounds, studied with electronic structure simulation methods. During my PhD, I also completed visiting research studying twin and grain boundaries with classical atomistic simulations.
