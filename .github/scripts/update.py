@@ -29,3 +29,4 @@ if __name__ == '__main__':
     repo = Repo('.')
     repo.index.add('./README.md')
     repo.index.commit(f'Updated README.md {now}')
+    repo.remotes[0].push()
