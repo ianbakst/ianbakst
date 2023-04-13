@@ -1,5 +1,4 @@
 from datetime import datetime
-from os import environ, getenv
 from os.path import dirname, join
 
 
@@ -29,6 +28,6 @@ if __name__ == '__main__':
         f.write(full_readme)
     now = datetime.now().strftime('%Y-%m-%dT%H:%M:%S')
     repo = Repo('.')
-    repo.index.add('./README.md')
+    repo.git.add(update=True)
     repo.index.commit(f'Updated README.md {now}')
     repo.remote(name='origin').push()
