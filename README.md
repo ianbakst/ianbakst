@@ -1,15 +1,12 @@
-### Hi there 👋
+### Hi, I'm Ian 👋
 
-- 🔭 I’m currently working on fun apps!
-- 🌱 I’m currently learning everything I can about AI!
-- 💬 Ask me about anything!
-- 📫 How to reach me: ian.n.bakst@gmail.com
+AI engineering leader building 0→1 agentic systems that carry revenue — currently the sole
+Senior AI Engineer at Topline Pro, architecting the agent platform.
 
+🌐 [ianbakst.com](https://ianbakst.com) · ✍️ [Writing](https://theshallowstate.substack.com) · 💼 [LinkedIn](https://linkedin.com/in/IanBakst) · 📫 ian@ianbakst.com
 
-#### Connect with me
-<a href="https://www.linkedin.com/in/ianbakst" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ianbakst" height="30" width="40" /></a>
+**Stack:** Python · LangChain / Pydantic AI · MCP · A2A · FastAPI · PyTorch · AWS / GCP
 
-### Bio 
-
-Please check the URL.
-Otherwise, click here to be redirected to the homepage.
+### Latest writing
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
