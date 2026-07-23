@@ -9,4 +9,6 @@ Senior AI Engineer at Topline Pro, architecting the agent platform.
 
 ### Latest writing
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s Time for a Digital Bill of Rights](https://theshallowstate.substack.com/p/its-time-for-a-digital-bill-of-rights)
+- [Coming soon](https://theshallowstate.substack.com/p/coming-soon)
 <!-- BLOG-POST-LIST:END -->
