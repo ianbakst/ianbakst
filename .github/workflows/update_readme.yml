@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://theshallowstate.substack.com/feed"
+          feed_list: "https://rss.app/feeds/FozBhhj9i8J6ZWMV.xml"
           max_post_count: 3
           user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
           retry_count: 3
